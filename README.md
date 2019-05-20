@@ -4,4 +4,4 @@ You are a 🐇, looking for 🥕. But you soon find out there are 💣 in the fi
 
 Here is an example that bunny wins:
 -----------------------------------
-![](bunnywin.gif)
+![](bunnyWin.gif)
